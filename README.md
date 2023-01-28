@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um aplicativo para gerir suas finanças, podendo adicionar novas despesas e classifica-las, além de consultar despesas cadastradas, filtra-las e ainda podendo excluí-las quando tiverem sido quitadas ou quando achar necessário!
 
-- [Visite o projeto online] (https://patrickpicon.github.io/mata_mosquito/)
+- [Visite o projeto online] (https://patrickpicon.github.io/orcamento_pessoal/)
